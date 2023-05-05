@@ -1,12 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-       //laço de repetiçâo
-        int contador = 0;
-        while(contador < 10){
-            System.out.println("contador = " + contador);
-            //incremento
-        contador = contador + 1;
-        }
-
+        //aula introdutora de introduçâo a objetos
     }
 }
